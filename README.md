@@ -12,8 +12,8 @@
 
 <br/>
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=KarolDiniz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&title_color=FF69B4" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarolDiniz&layout=compact&custom_title=My%20Programming%20Languages&langs_count=8&theme=blueberry&title_color=FF69B4" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=KarolDiniz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&title_color=FF69B4" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarolDiniz&layout=compact&custom_title=My%20Programming%20Languages&langs_count=8&theme=blueberry&title_color=FF69B4" />
 </p>
 <br>
 
