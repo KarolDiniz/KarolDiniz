@@ -40,6 +40,11 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=CompassUOL-SP-Challenge-02-Squad-4-cyberSquad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CompassUOL-SP-Challenge-02-Squad-4-cyberSquad">
   </a>
 </p>
+
+
+<h4 align="center">
+  <a href="https://github.com/KarolDiniz?tab=repositories" title="Show Repositories" style="color: #FF69B4;">🔎 View all repositories 🔍</a>
+</h4>
   
   
 ### :link: &nbsp;Contact Info
