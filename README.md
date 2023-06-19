@@ -33,8 +33,8 @@
   <a href="https://github.com/KarolDiniz/cancer-data-analytics">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=cancer-data-analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cancer-data-analytics">
   </a>
-  <a href="https://github.com/KarolDiniz/challenge-week-01">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=challenge-week-01&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="challenge-week-01">
+  <a href="https://github.com/KarolDiniz/compassUOL-SP-challenge-01">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=compassUOL-SP-challenge-01&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="compassUOL-SP-challenge-01">
   </a>
   <a href="https://github.com/KarolDiniz/detran-dataBase">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=detran-dataBase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="detran-dataBase">
