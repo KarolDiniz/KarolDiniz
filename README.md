@@ -1,7 +1,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=800&height=200&color=FF69B4&lines=Hi+i'm+KarolDiniz;Welcome+to+my+profile!">
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="GIF" width="200" height="200" style="float: right;">
 </p>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
