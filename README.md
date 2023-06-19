@@ -20,6 +20,26 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+<p align="left">
+  <a href="https://github.com/KarolDiniz/programming-quiz">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=programming-quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="programming-quiz">
+  </a>
+  <a href="https://github.com/KarolDiniz/LojaLorenaModas">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=LojaLorenaModas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LojaLorenaModas">
+  </a>
+  <a href="https://github.com/KarolDiniz/cancer-data-analytics">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=cancer-data-analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cancer-data-analytics">
+  </a>
+  <a href="https://github.com/KarolDiniz/challenge-week-01">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=challenge-week-01&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="challenge-week-01">
+  </a>
+  <a href="https://github.com/KarolDiniz/detran-dataBase">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=detran-dataBase&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="detran-dataBase">
+  </a>
+  <a href="https://github.com/KarolDiniz/CompassUOL-SP-Challenge-02-Squad-4-cyberSquad">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KarolDiniz&repo=CompassUOL-SP-Challenge-02-Squad-4-cyberSquad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CompassUOL-SP-Challenge-02-Squad-4-cyberSquad">
+  </a>
+</p>
   
   
 ### :link: &nbsp;Contact Info
