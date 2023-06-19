@@ -1,6 +1,7 @@
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=800&height=200&color=FF69B4&lines=Hi+i'm+KarolDiniz;Welcome+to+my+profile!">
+  <img align="right" width="210" src="./imgs/user.gif" />
 </p>
 
 <p align="center">
