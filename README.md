@@ -1,7 +1,7 @@
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=800&height=200&color=FF69B4&lines=Hi+i'm+KarolDiniz;Welcome+to+my+profile!", align="left">
-  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="GIF" width="190" height="190" style="float: right;", align="right">
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="GIF" width="180" height="180" style="float: right;", align="right">
 </p>
 
 
