@@ -57,6 +57,12 @@
 <a href="https://github.com/KarolDiniz"><img src="https://img.shields.io/badge/-Karol--Diniz-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.instagram.com/karolDinizr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
+  
+  <!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKarolDiniz%7D/count.svg" alt="visitor badge" width="30%"></p>
