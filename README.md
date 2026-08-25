@@ -56,9 +56,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&height=36&color=0:1a0f2e,50:6b21a8,100:a78bfa&text=STACK%20DA%20KAROL&fontSize=18&fontColor=e9d5ff&fontAlign=50&fontAlignY=55&stroke=c4b5fd&strokeWidth=1" alt="stack da karol" />
 
-<table width="100%">
+<table width="100%" cellpadding="10" cellspacing="0">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/01_N%C3%9ACLEO-7c3aed?style=flat-square&labelColor=1a0f2e" alt="nucleo" />
 
@@ -66,8 +66,12 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven&theme=dark" alt="icones backend" />
 
+<br/>
+
+<sub>APIs · regras de negócio · SQL · persistência</sub>
+
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/02_NUVEM-6b21a8?style=flat-square&labelColor=1a0f2e" alt="nuvem" />
 
@@ -75,40 +79,52 @@
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" alt="icones cloud" />
 
+<br/>
+
+<sub>deploy · containers · infra · versionamento</sub>
+
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/03_INTEGRA%C3%87%C3%83O-a78bfa?style=flat-square&labelColor=1a0f2e" alt="integracao" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postman,github&theme=dark" alt="icones integracao" />
+<img src="https://skillicons.dev/icons?i=postman,github,python&theme=dark" alt="icones integracao" />
+
+<br/>
+
+<sub>REST · testes de API · automação · repos</sub>
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/04_FRONTEND-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="frontend" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,angular,ts,python&theme=dark" alt="icones frontend" />
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js&theme=dark" alt="icones frontend" />
+
+<br/>
+
+<sub>interfaces · componentes · tipagem · SPA</sub>
 
 </td>
 </tr>
 </table>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#2d1b4e', 'primaryTextColor': '#e9d5ff', 'primaryBorderColor': '#a78bfa', 'lineColor': '#8b5cf6', 'fontSize': '13px'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#2d1b4e', 'primaryTextColor': '#e9d5ff', 'primaryBorderColor': '#a78bfa', 'lineColor': '#8b5cf6', 'fontSize': '12px'}}}%%
 flowchart LR
-  UI["Frontend"] -->|REST| SB["Spring Boot"]
+  FE["04 Frontend\nReact · Angular · TS"] -->|REST| SB["01 Núcleo\nSpring Boot · Java"]
   SB --> PG[("PostgreSQL")]
-  SB --> AWS["AWS e Docker"]
-  style UI fill:#1a0f2e,stroke:#8b5cf6,color:#e9d5ff
-  style SB fill:#2d1b4e,stroke:#c4b5fd,color:#ddd6fe
-  style PG fill:#1a0f2e,stroke:#a78bfa,color:#e9d5ff
-  style AWS fill:#1a0f2e,stroke:#7c3aed,color:#e9d5ff
+  SB --> CL["02 Nuvem\nAWS · Docker · Git"]
+  style FE fill:#1a0f2e,stroke:#c4b5fd,color:#e9d5ff
+  style SB fill:#2d1b4e,stroke:#a78bfa,color:#ddd6fe
+  style PG fill:#1a0f2e,stroke:#8b5cf6,color:#e9d5ff
+  style CL fill:#1a0f2e,stroke:#7c3aed,color:#e9d5ff
 ```
 
 <!-- atividade -->
