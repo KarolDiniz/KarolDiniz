@@ -16,7 +16,7 @@
   │                     │
 ```
 
-<img src="assets/karol-cyberpunk-avatar.png" width="300" alt="Karol — cyberpunk avatar" />
+<img src="assets/karol-cyberpunk-avatar.gif" width="300" alt="Karol — cyberpunk avatar" />
 
 ```text
   │                     │
