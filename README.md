@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0f2e,35:4c1d95,70:7c3aed,100:a78bfa&text=KAROL%20DINIZ&fontSize=34&fontColor=e9d5ff&fontAlignY=38&desc=software+engineer+%C2%B7+backend+%C2%B7+aws&descSize=14&descAlignY=68&descColor=c4b5fd&animation=fadeIn" width="100%" alt="hero-banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0f2e,35:4c1d95,70:7c3aed,100:a78bfa&text=KAROL%20DINIZ&fontSize=34&fontColor=e9d5ff&fontAlignY=38&desc=engenheira+de+software+%C2%B7+backend+%C2%B7+frontend+%C2%B7+aws&descSize=14&descAlignY=68&descColor=c4b5fd&animation=fadeIn" width="100%" alt="hero-banner" />
 
 <table width="100%">
 <tr>
@@ -11,15 +11,15 @@
 </td>
 <td width="64%" align="left" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=E9D5FF&center=false&vCenter=true&width=440&height=36&repeat=true&lines=backend+%C2%B7+java+%C2%B7+spring+boot+%C2%B7+aws;building+systems+that+last+beyond+midnight;para%C3%ADba+br+%E2%86%92+production" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=E9D5FF&center=false&vCenter=true&width=440&height=36&repeat=true&lines=backend+%C2%B7+java+%C2%B7+spring+boot+%C2%B7+aws;construindo+sistemas+que+duram+al%C3%A9m+da+meia-noite;backend+%C2%B7+frontend+%C2%B7+produ%C3%A7%C3%A3o" alt="typing" />
 
 <img src="https://img.shields.io/badge/status-online-7c3aed?style=flat-square&labelColor=1a0f2e" alt="status" />
-<img src="https://img.shields.io/badge/focus-backend-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="focus" />
-<img src="https://img.shields.io/badge/stack-java_%C2%B7_spring_%C2%B7_aws-a78bfa?style=flat-square&labelColor=1a0f2e" alt="stack-tag" />
+<img src="https://img.shields.io/badge/foco-backend-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="focus" />
+<img src="https://img.shields.io/badge/stack-java_%C2%B7_spring_%C2%B7_react-a78bfa?style=flat-square&labelColor=1a0f2e" alt="stack-tag" />
 
 <a href="#stack"><img src="https://img.shields.io/badge/STACK-2d1b4e?style=for-the-badge&labelColor=7c3aed&color=e9d5ff" alt="nav-stack" /></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-2d1b4e?style=for-the-badge&labelColor=6b21a8&color=c4b5fd" alt="nav-telemetry" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-2d1b4e?style=for-the-badge&labelColor=4c1d95&color=e9d5ff" alt="nav-connect" /></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/ATIVIDADE-2d1b4e?style=for-the-badge&labelColor=6b21a8&color=c4b5fd" alt="nav-telemetry" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONTATO-2d1b4e?style=for-the-badge&labelColor=4c1d95&color=e9d5ff" alt="nav-connect" /></a>
 
 <a href="https://www.linkedin.com/in/karol-diniz-3b1817214"><img src="https://img.shields.io/badge/LinkedIn-Karol_Diniz-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=6b21a8" alt="linkedin" /></a>
 <a href="https://github.com/KarolDiniz"><img src="https://img.shields.io/badge/GitHub-KarolDiniz-c4b5fd?style=for-the-badge&logo=github&logoColor=1a0f2e&labelColor=4c1d95" alt="github" /></a>
@@ -31,13 +31,13 @@
 <!-- ═══════════════════ STACK ═══════════════════ -->
 <a id="stack"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=36&color=0:1a0f2e,50:6b21a8,100:a78bfa&text=KAROL%27S%20STACK&fontSize=18&fontColor=e9d5ff&fontAlign=50&fontAlignY=55&stroke=c4b5fd&strokeWidth=1" alt="stack" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=36&color=0:1a0f2e,50:6b21a8,100:a78bfa&text=STACK%20DA%20KAROL&fontSize=18&fontColor=e9d5ff&fontAlign=50&fontAlignY=55&stroke=c4b5fd&strokeWidth=1" alt="stack" />
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/01_CORE-7c3aed?style=flat-square&labelColor=1a0f2e" alt="core" />
+<img src="https://img.shields.io/badge/01_N%C3%9ACLEO-7c3aed?style=flat-square&labelColor=1a0f2e" alt="core" />
 
 <br/>
 
@@ -46,7 +46,7 @@
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/02_CLOUD-6b21a8?style=flat-square&labelColor=1a0f2e" alt="cloud" />
+<img src="https://img.shields.io/badge/02_NUVEM-6b21a8?style=flat-square&labelColor=1a0f2e" alt="cloud" />
 
 <br/>
 
@@ -57,7 +57,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/03_INTEGRATION-a78bfa?style=flat-square&labelColor=1a0f2e" alt="integration" />
+<img src="https://img.shields.io/badge/03_INTEGRA%C3%87%C3%83O-a78bfa?style=flat-square&labelColor=1a0f2e" alt="integration" />
 
 <br/>
 
@@ -66,7 +66,7 @@
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/04_INTERFACE-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="interface" />
+<img src="https://img.shields.io/badge/04_FRONTEND-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="interface" />
 
 <br/>
 
@@ -79,7 +79,7 @@
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#2d1b4e', 'primaryTextColor': '#e9d5ff', 'primaryBorderColor': '#a78bfa', 'lineColor': '#8b5cf6', 'fontSize': '13px'}}}%%
 flowchart LR
-  UI["React · Angular"] -->|REST| SB["Spring Boot"]
+  UI["Frontend · React · Angular"] -->|REST| SB["Spring Boot"]
   SB --> PG[("PostgreSQL")]
   SB --> AWS["AWS · Docker"]
   style UI fill:#1a0f2e,stroke:#8b5cf6,color:#e9d5ff
@@ -97,7 +97,7 @@ flowchart LR
 <!-- ═══════════════════ TELEMETRY ═══════════════════ -->
 <a id="telemetry"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=40&color=0:2d1b4e,100:1a0f2e&text=GITHUB%20TELEMETRY&fontSize=18&fontColor=c4b5fd&fontAlignY=55&animation=blinking" alt="telemetry" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=40&color=0:2d1b4e,100:1a0f2e&text=TELEMETRIA%20GITHUB&fontSize=18&fontColor=c4b5fd&fontAlignY=55&animation=blinking" alt="telemetry" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarolDiniz&theme=2077" alt="activity graph" />
 
@@ -115,14 +115,14 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=32&color=0:1a0f2e,100:2d1b4e&text=commit+snake&fontSize=15&fontColor=a78bfa&fontAlignY=55&animation=blinking" alt="snake-label" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=32&color=0:1a0f2e,100:2d1b4e&text=cobra+de+commits&fontSize=15&fontColor=a78bfa&fontAlignY=55&animation=blinking" alt="snake-label" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarolDiniz/KarolDiniz/output/github-snake-dark.svg">
   <img alt="commit snake" src="https://raw.githubusercontent.com/KarolDiniz/KarolDiniz/output/github-snake.svg">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=480&height=24&repeat=true&lines=scanning+commits...;activity+stable+%E2%97%89" alt="scan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=480&height=24&repeat=true&lines=escaneando+commits...;atividade+est%C3%A1vel+%E2%97%89" alt="scan" />
 
 ```text
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
@@ -133,9 +133,9 @@ flowchart LR
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 <a id="connect"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=48&color=0:a78bfa,50:4c1d95,100:1a0f2e&text=LET%27S%20CONNECT&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn" alt="connect" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=48&color=0:a78bfa,50:4c1d95,100:1a0f2e&text=VAMOS%20CONVERSAR&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn" alt="connect" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=480&height=24&repeat=true&lines=open+for+collaboration;find+me+on+LinkedIn+%E2%86%93" alt="connect-typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=480&height=24&repeat=true&lines=aberta+para+colabora%C3%A7%C3%A3o;encontre-me+no+LinkedIn+%E2%86%93" alt="connect-typing" />
 
 <a href="https://www.linkedin.com/in/karol-diniz-3b1817214">
   <img src="https://img.shields.io/badge/LinkedIn-Karol_Diniz-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=6b21a8" alt="connect" />
@@ -148,10 +148,10 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=24&color=0:a78bfa,50:7c3aed,100:4c1d95&section=footer&animation=twinkling" width="100%" alt="frame-bottom" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a0f2e,50:4c1d95,100:a78bfa&text=KAROL%20DINIZ&fontSize=26&fontColor=e9d5ff&fontAlignY=42&desc=Software+Engineer+%C2%B7+Backend+%C2%B7+AWS&descSize=13&descAlignY=70&descColor=ddd6fe" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a0f2e,50:4c1d95,100:a78bfa&text=KAROL%20DINIZ&fontSize=26&fontColor=e9d5ff&fontAlignY=42&desc=Engenheira+de+Software+%C2%B7+Backend+%C2%B7+Frontend+%C2%B7+AWS&descSize=13&descAlignY=70&descColor=ddd6fe" alt="footer" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=profile+views&color=7c3aed&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=visualiza%C3%A7%C3%B5es&color=7c3aed&style=for-the-badge" alt="views" />
 
 </div>
