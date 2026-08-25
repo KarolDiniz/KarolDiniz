@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=700&color=C4B5FD&center=true&vCenter=true&width=780&height=36&repeat=true&lines=init%3E+Karol.OS+boot+sequence...;loading+Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+AWS;node%3A+Para%C3%ADba%20%7C%20clearance%3A+AWS+Certified;status%3A+online+%E2%97%89+building+systems+that+last" alt="boot" />
 
-<img src="assets/karol-cyberpunk-hero.png" width="500" alt="Karol — cyberpunk netrunner" />
+<img src="assets/karol-cyberpunk-avatar.png" width="420" alt="Karol — cyberpunk avatar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=17&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=30&repeat=true&lines=Para%C3%ADba+%E2%86%92+IFPB+%E2%86%92+Production+%E2%86%92+You;I+engineer+APIs+that+survive+midnight+deploys.;clean+architecture+is+my+love+language." alt="tagline" />
 
