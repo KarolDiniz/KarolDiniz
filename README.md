@@ -1,42 +1,19 @@
 <div align="center">
 
-<!-- ▬▬▬ HERO ▬▬▬ -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0f0a1a,40:2d1b4e,75:4c1d95,100:7c3aed&text=KAROL%20DINIZ&fontColor=e9d5ff&fontSize=62&fontAlignY=34&animation=twinkling&stroke=c4b5fd&strokeWidth=2&desc=SOFTWARE%20ENGINEER%20%C2%B7%20BACKEND%20%C2%B7%20AWS&descSize=18&descAlignY=54&descColor=ddd6fe" alt="hero" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0f0a1a,40:2d1b4e,75:4c1d95,100:7c3aed&text=KAROL%20DINIZ&fontColor=e9d5ff&fontSize=62&fontAlignY=36&animation=twinkling&stroke=c4b5fd&strokeWidth=2&desc=SOFTWARE%20ENGINEER%20%C2%B7%20BACKEND%20%C2%B7%20AWS&descSize=18&descAlignY=56&descColor=ddd6fe" alt="hero" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=700&color=C4B5FD&center=true&vCenter=true&width=780&height=36&repeat=true&lines=init%3E+Karol.OS+boot+sequence...;loading+Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+AWS;node%3A+Para%C3%ADba%20%7C%20clearance%3A+AWS+Certified;status%3A+online+%E2%97%89+building+systems+that+last" alt="boot" />
 
-<!-- animações no lugar do ASCII -->
-<img src="https://capsule-render.vercel.app/api?type=pulse&height=90&color=0:1a0f2e,50:6b21a8,100:a78bfa&text=LILAC%20PROTOCOL&fontColor=e9d5ff&fontSize=28&fontAlignY=40&animation=blinking&desc=Karol.OS%20v3.7%20%C2%B7%20neural%20interface%20active&descSize=14&descAlignY=68&descColor=ddd6fe" alt="lilac protocol" />
+<img src="assets/karol-cyberpunk-hero.png" width="500" alt="Karol — cyberpunk netrunner" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=17&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=30&repeat=true&lines=Para%C3%ADba+%E2%86%92+IFPB+%E2%86%92+Production+%E2%86%92+You;I+engineer+APIs+that+survive+midnight+deploys.;clean+architecture+is+my+love+language." alt="tagline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=700&color=C4B5FD&center=true&vCenter=true&width=780&height=40&repeat=true&lines=init%3E+Karol.OS+boot+sequence...;loading+Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+AWS;node%3A+Para%C3%ADba%20%7C%20clearance%3A+AWS+Certified;status%3A+online+%E2%97%89+building+systems+that+last" alt="boot" />
-
-<br/>
-
-<!-- avatar cyberpunk personalizado — upload assets/ no repo do perfil -->
-<img src="assets/karol-cyberpunk-hero.png" width="520" alt="Karol — Lilac Protocol netrunner" />
-
-<br/>
-
-<sub><code>// lilac · purple · cyberpunk · cabelo castanho · mecha branca</code></sub>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=17&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=32&repeat=true&lines=Para%C3%ADba+%E2%86%92+IFPB+%E2%86%92+Production+%E2%86%92+You;I+engineer+APIs+that+survive+midnight+deploys.;clean+architecture+is+my+love+language." alt="tagline" />
-
-<br/><br/>
-
-<!-- NAV -->
 <a href="#identity"><img src="https://img.shields.io/badge/✦_IDENTITY-c4b5fd?style=for-the-badge&labelColor=1a0f2e" alt="nav1" /></a>
 <a href="#stack"><img src="https://img.shields.io/badge/✦_STACK-a78bfa?style=for-the-badge&labelColor=1a0f2e" alt="nav2" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/✦_PROJECTS-8b5cf6?style=for-the-badge&labelColor=1a0f2e" alt="nav3" /></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/✦_TELEMETRY-7c3aed?style=for-the-badge&labelColor=1a0f2e" alt="nav4" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/✦_CONNECT-e9d5ff?style=for-the-badge&labelColor=1a0f2e" alt="nav5" /></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/✦_TELEMETRY-7c3aed?style=for-the-badge&labelColor=1a0f2e" alt="nav3" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/✦_CONNECT-e9d5ff?style=for-the-badge&labelColor=1a0f2e" alt="nav4" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:2d1b4e,100:1a0f2e&animation=twinkling" width="900" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=20&color=0:2d1b4e,100:1a0f2e&animation=twinkling" width="900" alt="divider" />
 
 </div>
 
@@ -44,18 +21,14 @@
 <a id="identity"></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=50&color=0:1a0f2e,100:2d1b4e&text=IDENTITY%20%2F%2F%20KAROL.DINIZ&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=blinking&stroke=a78bfa&strokeWidth=1" alt="identity" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=44&color=0:1a0f2e,100:2d1b4e&text=IDENTITY%20%2F%2F%20KAROL.DINIZ&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=blinking&stroke=a78bfa&strokeWidth=1" alt="identity" />
 </div>
-
-<br/>
 
 <table width="100%">
 <tr>
 <td width="38%" align="center" valign="middle">
 
 <img src="https://github.com/KarolDiniz.png?size=240" width="170" alt="avatar" />
-
-<br/><br/>
 
 ```text
 ╔════════════════════════╗
@@ -69,13 +42,9 @@
 ╚════════════════════════╝
 ```
 
-<br/>
-
 <a href="https://www.linkedin.com/in/karol-diniz-3b1817214"><img src="https://img.shields.io/badge/LINKEDIN-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=4c1d95" alt="in" /></a>
 &nbsp;
 <a href="https://github.com/KarolDiniz"><img src="https://img.shields.io/badge/GITHUB-c4b5fd?style=for-the-badge&logo=github&logoColor=1a0f2e&labelColor=4c1d95" alt="gh" /></a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=profile+views&color=7c3aed&style=for-the-badge" alt="views" />
 
@@ -98,14 +67,10 @@ $ karol.diniz --status
   ▰▰▰▰▰▰▰▰▰▰ 100%  open to connect
 ```
 
-<br/>
-
 <p align="left">
 Sou engenheira de software focada em <strong>backend</strong>. Entro em sistemas legados, organizo o caos e saio com APIs que alguém consegue manter.<br/>
 Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra nuvem.
 </p>
-
-<br/>
 
 <p align="left"><em>“Não construo só features — construo sistemas que ainda funcionam daqui a seis meses.”</em></p>
 
@@ -113,13 +78,9 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:2d1b4e,100:1a0f2e&text=SKILL%20LEVELS&fontSize=18&fontColor=c4b5fd&fontAlignY=55&animation=twinkling" alt="skills" />
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=40&color=0:2d1b4e,100:1a0f2e&text=SKILL%20LEVELS&fontSize=18&fontColor=c4b5fd&fontAlignY=55&animation=twinkling" alt="skills" />
 
 ```text
   JAVA         ▰▰▰▰▰▰▰▰▰▱  92%    │    REACT        ▰▰▰▰▰▰▱▱▱▱  68%
@@ -129,9 +90,7 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
   DOCKER       ▰▰▰▰▰▰▱▱▱▱  72%    │    GIT / LINUX   ▰▰▰▰▰▰▰▰▱▱  86%
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:4c1d95,100:1a0f2e&animation=twinkling" width="900" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=20&color=0:4c1d95,100:1a0f2e&animation=twinkling" width="900" alt="divider" />
 
 </div>
 
@@ -139,10 +98,8 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 <a id="stack"></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&height=50&color=0:1a0f2e,50:6b21a8,100:a78bfa&text=KAROL%27S%20STACK&fontSize=22&fontColor=e9d5ff&fontAlign=50&fontAlignY=55&rotate=-1&stroke=c4b5fd&strokeWidth=1" alt="stack" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=44&color=0:1a0f2e,50:6b21a8,100:a78bfa&text=KAROL%27S%20STACK&fontSize=22&fontColor=e9d5ff&fontAlign=50&fontAlignY=55&rotate=-1&stroke=c4b5fd&strokeWidth=1" alt="stack" />
 </div>
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -150,11 +107,7 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 
 **✦ Backend & Dados**
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven&theme=dark" />
-
-<br/>
 
 | tech | uso |
 |:-----|:----|
@@ -168,11 +121,7 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 
 **✦ Cloud & DevOps**
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" />
-
-<br/>
 
 | tech | uso |
 |:-----|:----|
@@ -186,15 +135,9 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 <tr>
 <td width="50%" align="center" valign="top">
 
-<br/>
-
 **✦ Integração & Qualidade**
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=postman,github&theme=dark" />
-
-<br/>
 
 | tech | uso |
 |:-----|:----|
@@ -206,15 +149,9 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 </td>
 <td width="50%" align="center" valign="top">
 
-<br/>
-
 **✦ Frontend & Extras**
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=react,angular,ts,js,python,html,css&theme=dark" />
-
-<br/>
 
 | tech | uso |
 |:-----|:----|
@@ -226,8 +163,6 @@ Java e Spring Boot no centro · SQL como fundação · AWS quando precisa ir pra
 </td>
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
@@ -265,121 +200,17 @@ flowchart TB
   style INFRA fill:#2d1b4e,stroke:#7c3aed,color:#e9d5ff
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=20&color=0:6b21a8,100:1a0f2e&animation=blinking" width="900" alt="divider" />
 
-```text
-  FLUXO TÍPICO DE UM SISTEMA MEU
-  ─────────────────────────────────────────────────────────
-  Client  →  REST API  →  Service Layer  →  Repository  →  DB
-                    ↘         ↘                ↘
-                     Auth      Business         AWS / Queue
-  ─────────────────────────────────────────────────────────
-  Foco: código legível · contratos claros · deploy previsível
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:6b21a8,100:1a0f2e&animation=blinking" width="900" alt="divider" />
-
-</div>
-
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-<a id="projects"></a>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=50&color=0:4c1d95,50:2d1b4e,100:1a0f2e&text=FEATURED%20PROJECTS&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=twinkling&stroke=a78bfa&strokeWidth=1" alt="projects" />
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-```text
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 01 │ email-microservice-system      ┃
-┃ stack │ Java · REST · Queue · Async ┃
-┃ status │ ✓ deployed                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br/>
-
-<p align="center">
-Cadastro de usuário → fila de mensagens → e-mail de boas-vindas.<br/>
-Meu primeiro microserviço completo, pensado em fluxo real.
-</p>
-
-<br/>
-
-<a href="https://github.com/KarolDiniz/email-microservice-system"><img src="https://img.shields.io/badge/view_repo-c4b5fd?style=for-the-badge&labelColor=1a0f2e" alt="p1" /></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-```text
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 02 │ CompassUOL AWS Challenge       ┃
-┃ stack │ Spring Boot · AWS · Squad   ┃
-┃ status │ ✓ complete                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br/>
-
-<p align="center">
-Challenge de backend em equipe — API sob pressão,<br/>
-integração cloud e entrega competitiva.
-</p>
-
-<br/>
-
-<a href="https://github.com/KarolDiniz/CompassUOL-SP-Challenge-02-Squad"><img src="https://img.shields.io/badge/view_repo-a78bfa?style=for-the-badge&labelColor=1a0f2e" alt="p2" /></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<br/>
-
-```text
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 03 │ car-game · Python · side project · diversão intencional ✓       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br/>
-
-<a href="https://github.com/KarolDiniz/car-game"><img src="https://img.shields.io/badge/view_repo-8b5cf6?style=for-the-badge&labelColor=1a0f2e" alt="p3" /></a>
-&nbsp;
-<a href="https://github.com/KarolDiniz?tab=repositories"><img src="https://img.shields.io/badge/all_repositories-2d1b4e?style=for-the-badge&labelColor=1a0f2e&color=6b21a8" alt="all" /></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:7c3aed,100:1a0f2e&animation=twinkling" width="900" alt="divider" />
 </div>
 
 <!-- ═══════════════════ TELEMETRY ═══════════════════ -->
 <a id="telemetry"></a>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=50&color=0:2d1b4e,100:1a0f2e&text=GITHUB%20TELEMETRY&fontSize=20&fontColor=c4b5fd&fontAlignY=55&animation=blinking" alt="telemetry" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=44&color=0:2d1b4e,100:1a0f2e&text=GITHUB%20TELEMETRY&fontSize=20&fontColor=c4b5fd&fontAlignY=55&animation=blinking" alt="telemetry" />
 
-<br/>
-
-<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarolDiniz&theme=2077" alt="activity graph" />
-</div>
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -395,48 +226,16 @@ integração cloud e entrega competitiva.
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=40&color=0:1a0f2e,100:2d1b4e&text=commit+snake&fontSize=16&fontColor=a78bfa&fontAlignY=55&animation=blinking" alt="snake-label" />
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=36&color=0:1a0f2e,100:2d1b4e&text=commit+snake&fontSize=16&fontColor=a78bfa&fontAlignY=55&animation=blinking" alt="snake-label" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarolDiniz/KarolDiniz/output/github-snake-dark.svg">
   <img alt="commit snake" src="https://raw.githubusercontent.com/KarolDiniz/KarolDiniz/output/github-snake.svg">
 </picture>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&height=26&repeat=true&lines=scanning+commits...;activity+stable+%E2%97%89;Karol.OS+synced" alt="scan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&height=28&repeat=true&lines=scanning+commits...;activity+stable+%E2%97%89;Karol.OS+synced" alt="scan" />
-
-<br/><br/>
-
-<details align="center">
-<summary><strong>✦ about me + timeline</strong></summary>
-<br/>
-
-```text
-▸ superpower  : legado → arquitetura limpa
-▸ weakness    : não ignoro build quebrado
-▸ fun fact    : Ghibli Movies App · Jetpack Compose
-▸ fuel        : café + lo-fi + CI verde
-
-TIMELINE
-  2021 ─ primeiro commit no GitHub
-  2023 ─ ADS · IFPB Monteiro
-  2023 ─ microserviços · banco de dados · JPA
-  2024 ─ challenges Spring Boot · AWS
-  2025 ─ Software Engineer · produção
-```
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:4c1d95,100:1a0f2e&animation=blinking" width="900" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=20&color=0:4c1d95,100:1a0f2e&animation=blinking" width="900" alt="divider" />
 
 </div>
 
@@ -445,24 +244,14 @@ TIMELINE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:a78bfa,50:4c1d95,100:1a0f2e&text=LET%27S%20CONNECT&fontSize=22&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn" alt="connect" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:a78bfa,50:4c1d95,100:1a0f2e&text=LET%27S%20CONNECT&fontSize=22&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn" alt="connect" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=520&height=28&repeat=true&lines=open+for+collaboration+%26+opportunities;find+me+on+LinkedIn+%E2%86%93" alt="connect-typing" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=520&height=26&repeat=true&lines=open+for+collaboration+%26+opportunities;find+me+on+LinkedIn+%E2%86%93" alt="connect-typing" />
 
 <a href="https://www.linkedin.com/in/karol-diniz-3b1817214">
   <img src="https://img.shields.io/badge/LinkedIn-Karol_Diniz-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=6b21a8" alt="connect" />
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a0f2e,45:4c1d95,85:7c3aed,100:a78bfa&section=footer&animation=twinkling&text=KAROL%20DINIZ&fontSize=30&fontColor=e9d5ff&fontAlignY=40&desc=Software+Engineer+%C2%B7+Backend+%C2%B7+AWS&descSize=14&descAlignY=72&descColor=ddd6fe" alt="footer" />
-
-<br/>
-
-<sub><code>// Lilac Protocol · built with Java, Spring & a lot of coffee ☕</code></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0f2e,45:4c1d95,85:7c3aed,100:a78bfa&section=footer&animation=twinkling&text=KAROL%20DINIZ&fontSize=30&fontColor=e9d5ff&fontAlignY=40&desc=Software+Engineer+%C2%B7+Backend+%C2%B7+AWS&descSize=14&descAlignY=72&descColor=ddd6fe" alt="footer" />
 
 </div>
