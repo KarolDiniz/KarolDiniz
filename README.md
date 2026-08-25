@@ -1,52 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=24&color=0:4c1d95,50:7c3aed,100:a78bfa&animation=twinkling" width="100%" alt="frame-top" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a0f2e,35:4c1d95,70:7c3aed,100:a78bfa&text=KAROL%20DINIZ&fontSize=34&fontColor=e9d5ff&fontAlignY=38&desc=software+engineer+%C2%B7+backend+%C2%B7+aws&descSize=14&descAlignY=68&descColor=c4b5fd&animation=fadeIn" width="100%" alt="hero-banner" />
 
 ```text
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                                ┃
 ```
 
 <table width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
 ```text
-  ╭─────────────────────╮
-  │                     │
+    ╔═══════════════════════╗
+    ║  ◈  avatar  feed      ║
+    ╠═══════════════════════╣
+    ║                       ║
 ```
 
-<img src="assets/karol-cyberpunk-avatar.gif" width="300" alt="Karol — cyberpunk avatar" />
+<img src="assets/karol-cyberpunk-avatar.gif" width="260" alt="Karol — cyberpunk avatar" />
 
 ```text
-  │                     │
-  ╰─────────────────────╯
+    ║                       ║
+    ╚═══════════════════════╝
 ```
 
 </td>
-<td width="62%" align="left" valign="middle">
+<td width="64%" align="left" valign="middle">
 
-## ✦ KAROL DINIZ
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=700&color=C4B5FD&center=false&vCenter=true&width=480&height=32&repeat=true&lines=backend+engineer+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+AWS;building+systems+that+last+beyond+midnight;Para%C3%ADba+BR+%E2%86%92+production" alt="boot" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=E9D5FF&center=false&vCenter=true&width=440&height=36&repeat=true&lines=backend+%C2%B7+java+%C2%B7+spring+boot+%C2%B7+aws;building+systems+that+last+beyond+midnight;para%C3%ADba+br+%E2%86%92+production" alt="typing" />
 
 <br/>
 
-<a href="#stack"><img src="https://img.shields.io/badge/STACK-a78bfa?style=for-the-badge&labelColor=1a0f2e" alt="nav1" /></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-7c3aed?style=for-the-badge&labelColor=1a0f2e" alt="nav3" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-e9d5ff?style=for-the-badge&labelColor=1a0f2e" alt="nav4" /></a>
+<img src="https://img.shields.io/badge/status-online-7c3aed?style=flat-square&labelColor=1a0f2e" alt="status" />
+<img src="https://img.shields.io/badge/focus-backend-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="focus" />
+<img src="https://img.shields.io/badge/stack-java_%C2%B7_spring_%C2%B7_aws-a78bfa?style=flat-square&labelColor=1a0f2e" alt="stack-tag" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/karol-diniz-3b1817214"><img src="https://img.shields.io/badge/LinkedIn-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=4c1d95" alt="in" /></a>
-<a href="https://github.com/KarolDiniz"><img src="https://img.shields.io/badge/GitHub-c4b5fd?style=for-the-badge&logo=github&logoColor=1a0f2e&labelColor=4c1d95" alt="gh" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-2d1b4e?style=for-the-badge&labelColor=7c3aed&color=e9d5ff" alt="nav-stack" /></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-2d1b4e?style=for-the-badge&labelColor=6b21a8&color=c4b5fd" alt="nav-telemetry" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-2d1b4e?style=for-the-badge&labelColor=4c1d95&color=e9d5ff" alt="nav-connect" /></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/karol-diniz-3b1817214"><img src="https://img.shields.io/badge/LinkedIn-Karol_Diniz-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=6b21a8" alt="linkedin" /></a>
+<a href="https://github.com/KarolDiniz"><img src="https://img.shields.io/badge/GitHub-KarolDiniz-c4b5fd?style=for-the-badge&logo=github&logoColor=1a0f2e&labelColor=4c1d95" alt="github" /></a>
 
 </td>
 </tr>
 </table>
 
 ```text
-┃                                                                                ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ```
 
