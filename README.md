@@ -32,8 +32,7 @@
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-c4b5fd?style=for-the-badge&labelColor=1a0f2e" alt="nav1" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/STACK-a78bfa?style=for-the-badge&labelColor=1a0f2e" alt="nav2" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-a78bfa?style=for-the-badge&labelColor=1a0f2e" alt="nav1" /></a>
 <a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-7c3aed?style=for-the-badge&labelColor=1a0f2e" alt="nav3" /></a>
 <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-e9d5ff?style=for-the-badge&labelColor=1a0f2e" alt="nav4" /></a>
 
@@ -52,54 +51,6 @@
 ```
 
 <br/>
-
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-<a id="about"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=40&color=0:1a0f2e,100:2d1b4e&text=ABOUT%20ME&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=blinking&stroke=a78bfa&strokeWidth=1" alt="about" />
-
-<table width="100%">
-<tr>
-<td width="55%" align="left" valign="top">
-
-Sou engenheira de software focada em **backend**. Entro em sistemas legados, organizo o caos e saio com APIs que alguém consegue manter — Java e Spring Boot no centro, SQL como fundação, AWS quando o deploy precisa ir além do localhost.
-
-<br/><br/>
-
-*“Não construo só features — construo sistemas que ainda funcionam daqui a seis meses.”*
-
-<br/><br/>
-
-| | |
-|:--|:--|
-| 🎓 | ADS · IFPB Monteiro |
-| ☁️ | AWS Certified |
-| 📍 | Paraíba, Brazil |
-| 💼 | Software Engineer · Backend |
-
-<img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=profile+views&color=7c3aed&style=for-the-badge" alt="views" />
-
-</td>
-<td width="45%" align="left" valign="top">
-
-```bash
-$ karol.diniz --now
-────────────────────────────────────────────
-  focus    │ APIs · integrações · legado
-  building │ sistemas escaláveis em prod
-  learning │ arquitetura · cloud · craft
-  fun fact │ Ghibli App · Jetpack Compose
-  fuel     │ café + lo-fi + CI verde
-────────────────────────────────────────────
-$ karol.diniz --trajectory
-  2021 → first commit
-  2023 → IFPB · microserviços
-  2025 → Software Engineer
-```
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=36&color=0:2d1b4e,100:1a0f2e&text=SKILL%20LEVELS&fontSize=17&fontColor=c4b5fd&fontAlignY=55&animation=twinkling" alt="skills" />
 
@@ -258,5 +209,9 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=soft&height=24&color=0:a78bfa,50:7c3aed,100:4c1d95&section=footer&animation=twinkling" width="100%" alt="frame-bottom" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1a0f2e,50:4c1d95,100:a78bfa&text=KAROL%20DINIZ&fontSize=26&fontColor=e9d5ff&fontAlignY=42&desc=Software+Engineer+%C2%B7+Backend+%C2%B7+AWS&descSize=13&descAlignY=70&descColor=ddd6fe" alt="footer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=profile+views&color=7c3aed&style=for-the-badge" alt="views" />
 
 </div>
