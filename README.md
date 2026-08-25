@@ -11,18 +11,41 @@
 </td>
 <td width="64%" align="left" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=E9D5FF&center=false&vCenter=true&width=440&height=36&repeat=true&lines=backend+%C2%B7+java+%C2%B7+spring+boot+%C2%B7+aws;construindo+sistemas+que+duram+al%C3%A9m+da+meia-noite;backend+%C2%B7+frontend+%C2%B7+produ%C3%A7%C3%A3o" alt="typing" />
+<table>
+<tr>
+<td align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=900&color=E9D5FF&center=false&vCenter=true&width=440&height=36&repeat=true&lines=fullstack+%C2%B7+java+%C2%B7+spring+boot+%C2%B7+react;construindo+sistemas+que+duram+al%C3%A9m+da+meia-noite;backend+%C2%B7+frontend+%C2%B7+produ%C3%A7%C3%A3o" alt="typing" />
+
+</td>
+</tr>
+<tr>
+<td align="left">
 
 <img src="https://img.shields.io/badge/status-online-7c3aed?style=flat-square&labelColor=1a0f2e" alt="status" />
-<img src="https://img.shields.io/badge/foco-backend-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="focus" />
+<img src="https://img.shields.io/badge/foco-fullstack-c4b5fd?style=flat-square&labelColor=1a0f2e" alt="focus" />
 <img src="https://img.shields.io/badge/stack-java_%C2%B7_spring_%C2%B7_react-a78bfa?style=flat-square&labelColor=1a0f2e" alt="stack-tag" />
 
-<a href="#stack"><img src="https://img.shields.io/badge/STACK-2d1b4e?style=for-the-badge&labelColor=7c3aed&color=e9d5ff" alt="nav-stack" /></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/ATIVIDADE-2d1b4e?style=for-the-badge&labelColor=6b21a8&color=c4b5fd" alt="nav-telemetry" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/CONTATO-2d1b4e?style=for-the-badge&labelColor=4c1d95&color=e9d5ff" alt="nav-connect" /></a>
+</td>
+</tr>
+<tr>
+<td align="left">
+
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-e9d5ff?style=for-the-badge&labelColor=7c3aed" alt="nav-stack" /></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/ATIVIDADE-c4b5fd?style=for-the-badge&labelColor=6b21a8" alt="nav-telemetry" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONTATO-e9d5ff?style=for-the-badge&labelColor=4c1d95" alt="nav-connect" /></a>
+
+</td>
+</tr>
+<tr>
+<td align="left">
 
 <a href="https://www.linkedin.com/in/karol-diniz-3b1817214"><img src="https://img.shields.io/badge/LinkedIn-Karol_Diniz-e9d5ff?style=for-the-badge&logo=linkedin&logoColor=1a0f2e&labelColor=6b21a8" alt="linkedin" /></a>
 <a href="https://github.com/KarolDiniz"><img src="https://img.shields.io/badge/GitHub-KarolDiniz-c4b5fd?style=for-the-badge&logo=github&logoColor=1a0f2e&labelColor=4c1d95" alt="github" /></a>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
