@@ -28,15 +28,11 @@
 
 ## ✦ KAROL DINIZ
 
-**Software Engineer · Backend · AWS**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=700&color=C4B5FD&center=false&vCenter=true&width=480&height=32&repeat=true&lines=init%3E+Karol.OS+boot...;Java+%C2%B7+Spring+Boot+%C2%B7+SQL+%C2%B7+AWS;Para%C3%ADba+BR+%7C+AWS+Certified;status%3A+online+%E2%97%89" alt="boot" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=16&duration=4000&pause=1200&color=A78BFA&center=false&vCenter=true&width=480&height=28&repeat=true&lines=Para%C3%ADba+%E2%86%92+IFPB+%E2%86%92+Production;APIs+that+survive+midnight+deploys" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=700&color=C4B5FD&center=false&vCenter=true&width=480&height=32&repeat=true&lines=backend+engineer+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+AWS;building+systems+that+last+beyond+midnight;Para%C3%ADba+BR+%E2%86%92+production" alt="boot" />
 
 <br/>
 
-<a href="#identity"><img src="https://img.shields.io/badge/IDENTITY-c4b5fd?style=for-the-badge&labelColor=1a0f2e" alt="nav1" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-c4b5fd?style=for-the-badge&labelColor=1a0f2e" alt="nav1" /></a>
 <a href="#stack"><img src="https://img.shields.io/badge/STACK-a78bfa?style=for-the-badge&labelColor=1a0f2e" alt="nav2" /></a>
 <a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-7c3aed?style=for-the-badge&labelColor=1a0f2e" alt="nav3" /></a>
 <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-e9d5ff?style=for-the-badge&labelColor=1a0f2e" alt="nav4" /></a>
@@ -57,48 +53,49 @@
 
 <br/>
 
-<!-- ═══════════════════ IDENTITY ═══════════════════ -->
-<a id="identity"></a>
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<a id="about"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=40&color=0:1a0f2e,100:2d1b4e&text=IDENTITY&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=blinking&stroke=a78bfa&strokeWidth=1" alt="identity" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=40&color=0:1a0f2e,100:2d1b4e&text=ABOUT%20ME&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=blinking&stroke=a78bfa&strokeWidth=1" alt="about" />
 
 <table width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="55%" align="left" valign="top">
 
-<img src="https://github.com/KarolDiniz.png?size=240" width="150" alt="avatar" />
+Sou engenheira de software focada em **backend**. Entro em sistemas legados, organizo o caos e saio com APIs que alguém consegue manter — Java e Spring Boot no centro, SQL como fundação, AWS quando o deploy precisa ir além do localhost.
 
-```text
-╔════════════════════════╗
-║ Karoline Diniz Ramos   ║
-║ Software Engineer      ║
-║ AWS Certified          ║
-║ Paraíba, Brazil        ║
-║ Status: ◉ ONLINE       ║
-╚════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=views&color=7c3aed&style=for-the-badge" alt="views" />
-
-</td>
-<td width="62%" align="left" valign="middle">
-
-```bash
-$ karol.diniz --whoami
-────────────────────────────────────────────
-  role     │ Software Engineer · Backend
-  core     │ Java · Spring Boot · SQL
-  cloud    │ AWS · Docker · REST APIs
-  also     │ React · Angular · TypeScript
-  from     │ Paraíba → IFPB → Production
-────────────────────────────────────────────
-$ karol.diniz --status
-  ▰▰▰▰▰▰▰▰▰▰ 100%  open to connect
-```
-
-Sou engenheira de software focada em **backend**. Entro em sistemas legados, organizo o caos e saio com APIs que alguém consegue manter.
+<br/><br/>
 
 *“Não construo só features — construo sistemas que ainda funcionam daqui a seis meses.”*
+
+<br/><br/>
+
+| | |
+|:--|:--|
+| 🎓 | ADS · IFPB Monteiro |
+| ☁️ | AWS Certified |
+| 📍 | Paraíba, Brazil |
+| 💼 | Software Engineer · Backend |
+
+<img src="https://komarev.com/ghpvc/?username=KarolDiniz&label=profile+views&color=7c3aed&style=for-the-badge" alt="views" />
+
+</td>
+<td width="45%" align="left" valign="top">
+
+```bash
+$ karol.diniz --now
+────────────────────────────────────────────
+  focus    │ APIs · integrações · legado
+  building │ sistemas escaláveis em prod
+  learning │ arquitetura · cloud · craft
+  fun fact │ Ghibli App · Jetpack Compose
+  fuel     │ café + lo-fi + CI verde
+────────────────────────────────────────────
+$ karol.diniz --trajectory
+  2021 → first commit
+  2023 → IFPB · microserviços
+  2025 → Software Engineer
+```
 
 </td>
 </tr>
